@@ -1,3 +1,3 @@
 # AOC archive
 
-My crack at the puzzles from Advent of Code'23.
+My crack at the puzzles from Advent of Code.
