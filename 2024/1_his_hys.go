@@ -52,7 +52,7 @@ func solve_p2(group1 []int, group2 []int) int {
 }
 
 func main() {
-	dat, err := os.ReadFile("../1_his_hys_input.txt")
+	dat, err := os.ReadFile("1_his_hys_input.txt")
 	check(err)
 	raw_input := s.Split(string(dat), "\n")
 	var group1 []int
