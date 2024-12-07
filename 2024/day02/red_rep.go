@@ -76,7 +76,7 @@ func solve_p2(input_ints []int) int {
 }
 
 func Run() {
-	dat, err := os.ReadFile("day02/2_red_rep_input.txt")
+	dat, err := os.ReadFile("day02/red_rep_input.txt")
 	check(err)
 	raw_input := s.Split(string(dat), "\n")
 	safe_counter_p1 := 0
