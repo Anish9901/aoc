@@ -1,4 +1,4 @@
-with open('/home/anish/oss/aoc/2025/2_gift_shop.txt') as f:
+with open('2_gift_shop.txt') as f:
     inputs = f.read().split(',')
 
 inputs = [i.split('-') for i in inputs]
